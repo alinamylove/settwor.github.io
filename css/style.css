@@ -258,7 +258,7 @@ ol {
 	float: right;
 	font-weight: 500;
 	background: #ffb320;
-	padding: 8px 28px;
+	padding: 10px 28px;
 	border-radius: 30px;
 }
 
@@ -461,12 +461,16 @@ ol {
 	background: #ff205f;
 }
 
-.news-ticker-contant .nt-item span.strategy {
+.news-ticker-contant .nt-item span.update {
 	background: #4eae60;
 }
 
-.news-ticker-contant .nt-item span.racing {
+.news-ticker-contant .nt-item span.newapp {
 	background: #694eae;
+}
+
+.news-ticker-contant .nt-item span.newgame {
+	background: #9b870c;
 }
 
 /*------------------
