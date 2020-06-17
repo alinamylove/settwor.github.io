@@ -75,18 +75,35 @@ ol {
 -----------------------*/
 
 .appname {
-	position: absolute;
-	text-align: center;
+    text-align: center;
 }
 
 .applogo {
-	position: absolute;
-	width: auto;
+ 	margin: 0 auto;
+	display: block;
+
 }
 
-.appclear {
+.appdesc {
+	font-family: Arial, Verdana, sans-serif
+}
+
+.appbgbig {
 	height: 100%;
-	width: auto;
+    background: linear-gradient(to left, DarkSlateGrey, SlateGray, DarkSlateGrey);
+}
+
+.appbg {
+	background: linear-gradient(to left, DarkCyan, DarkCyan);
+	width: 1000px;
+	height: 500px;
+ 	margin: 0 auto;
+	display: block;
+
+}
+
+.appbg h2 {
+	color: DarkSlateGrey;
 }
 
 .section-title {
