@@ -76,7 +76,7 @@ ol {
 
 .appname {
 	position: absolute;
-	left: 150px;
+	text-align: center;
 }
 
 .applogo {
