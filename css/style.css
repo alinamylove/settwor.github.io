@@ -74,9 +74,20 @@ ol {
   Helper CSS
 -----------------------*/
 
-/*.vrapper {
-	width: 1519px;
-}*/
+.appname {
+	position: absolute;
+	left: 150px;
+}
+
+.applogo {
+	position: absolute;
+	width: auto;
+}
+
+.appclear {
+	height: 100%;
+	width: auto;
+}
 
 .section-title {
 	text-align: center;
