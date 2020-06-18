@@ -35,7 +35,16 @@
 			</a>
 			<div class="user-panel">
 				<a href="counter.php?do=1">Login</a>
-				<? @readfile('1.txt'); ?> скачиваний
+				<? $chislo =  file_put_contents('1.txt');
+				if(empty($chislo)
+				{
+				echo '000';
+				}
+				else
+				{
+				echo '$chislo скачиваний';
+				}
+				?>
 			</div>
 			<!-- responsive -->
 			<div class="nav-switch">
