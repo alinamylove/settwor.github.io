@@ -129,7 +129,7 @@ ol {
     left: 410px;
     top: 500px;
     font-size: 100%;
-}
+0}
 
 .downpan {
 	background: #ffb320;
@@ -142,24 +142,6 @@ ol {
 .appdescall {
 	margin: 0 auto;
 	display: block;
-}
-
-.downbut {
-	font-weight: 600;
-	background: #ffb320;
-	padding: 10px 28px;
-	border-radius: 20px;
-	top: 400px;
-	left: 695px;
-}
-
-.downbut2 {
-    font-weight: 600;
-    background: linear-gradient(to left, DarkCyan, DarkCyan);
-    padding: 10px 28px;
-    border-radius: 20px;
-    top: 1240px;
-    left: 550px;
 }
 
 .comments {
@@ -210,15 +192,31 @@ ol {
 
 .apppublic {
 	font-family: Arial, Verdana, sans-serif;
-    margin-left: 150px;
-    padding: 23em 0;
     font-size: 90%;
+	margin-right: 500px;
+	
 }
+
+.downbut {
+	font-weight: 600;
+	background: #ffb320;
+	padding: 10px 28px;
+	border-radius: 20px;
+}
+
+.downbut2 {
+    font-weight: 600;
+    background: linear-gradient(to left, DarkCyan, DarkCyan);
+    padding: 10px 28px;
+    border-radius: 20px;
+}
+
 
 .appvers {
 	font-family: Arial, Verdana, sans-serif;
-    margin-left: 750px;
+    margin-left: 500px;
     font-size: 90%;
+	margin-top: -18px;
 }
 
 .appbgbig {
