@@ -1661,7 +1661,7 @@ ol {
 @media only screen and (max-width: 2560px) {
 	.appbg {
 		width: 2200px;
-		height: 1365px;
+		height: 1330px;
 	}
 	
 	.downbut2 {
@@ -1690,7 +1690,7 @@ ol {
 @media only screen and (max-width: 1920px) {
 	.appbg {
 		width: 1500px;
-		height: 1396px;
+		height: 1330px;
 	}
 	
 	.downbut2 {
@@ -1722,7 +1722,7 @@ ol {
 @media only screen and (max-width: 1600px) {
 	.appbg {
 		width: 1400px;
-		height: 1396px;
+		height: 1330px;
 	}
 	
 	.downbut2 {
@@ -1751,7 +1751,7 @@ ol {
 @media only screen and (max-width: 1536px) {
 	.appbg {
 		width: 1400px;
-		height: 1396px;
+		height: 1330px;
 	}
 	
 	.downbut2 {
@@ -1810,7 +1810,7 @@ ol {
 @media only screen and (max-width: 1280px) {
 	.appbg {
 		width: 1100px;
-		height: 1428px;
+		height: 1362px;
 	}
 	
 	.downbut2 {
@@ -1839,7 +1839,7 @@ ol {
 @media only screen and (max-width: 1024px) {
 	.appbg {
 		width: 800px;
-		height: 1303px;
+		height: 1249px;
 	}
 	
 	.downbut2 {
@@ -1868,7 +1868,7 @@ ol {
 @media only screen and (max-width: 768px) {
 	.appbg {
 		width: 550px;
-		height: 1210px;
+		height: 1140px;
 	}
 	
 	.downbut2 {
@@ -1897,7 +1897,7 @@ ol {
 @media only screen and (max-width: 426px) {
 	.appbg {
 		width: 300px;
-		height: 1180px;
+		height: 1105px;
 	}
 	
 	.appvers {
@@ -1963,13 +1963,8 @@ ol {
 @media only screen and (max-width: 320px) {
 	.appbg {
 		width: 200px;
-		height: 1300px;
+		height: 1225px;
 	}
-	
-	.scrimg {
-		height: auto;
-	}
-	
 	.appbg {
 		width: 200px;
 		height: 1300px;
@@ -1993,7 +1988,6 @@ ol {
 	
 	.scrimg {
    		margin-top: -140px;
-		height: 565px;
 	}
 	
 	.scrsht {
