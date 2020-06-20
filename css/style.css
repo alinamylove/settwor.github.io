@@ -150,6 +150,7 @@ ol {
     text-align: center;
     background: linear-gradient(to left, #808080, #ffb320, #808080);
 	color: black;
+	margin-top: -1px;
 }
 
 .appname {
@@ -1659,8 +1660,28 @@ ol {
 /*4K*/
 @media only screen and (max-width: 2560px) {
 	.appbg {
-	width: 2200px;
-	height: 400px;
+		width: 2200px;
+		height: 1365px;
+	}
+	
+	.downbut2 {
+		width: auto;
+	}
+	
+	.aboutdown {
+		margin-top: -90px;
+	}
+	
+	.appbgbig {
+    	height: 1669px;
+	}
+	
+	.scrimg {
+  		margin-top: -140px;
+	}
+	
+	.scrsht {
+  		height: 200px;
 	}
 }
 
@@ -1668,10 +1689,29 @@ ol {
 /*Laptop 1920*/
 @media only screen and (max-width: 1920px) {
 	.appbg {
-	width: 1500px;
-	height: 400px;
+		width: 1500px;
+		height: 1396px;
 	}
 	
+	.downbut2 {
+		width: auto;
+	}
+	
+	.aboutdown {
+		margin-top: -90px;
+	}
+	
+	.appbgbig {
+    	height: 1690px;
+	}
+	
+	.scrimg {
+  		margin-top: -140px;
+	}
+	
+	.scrsht {
+  		height: 200px;
+	}
 	.site-logo {
 		max-width: 300px;
 	}
@@ -1681,8 +1721,28 @@ ol {
 /*Laptop 1600*/
 @media only screen and (max-width: 1600px) {
 	.appbg {
-	width: 1400px;
-	height: 1830px;
+		width: 1400px;
+		height: 1396px;
+	}
+	
+	.downbut2 {
+		width: auto;
+	}
+	
+	.aboutdown {
+		margin-top: -90px;
+	}
+	
+	.appbgbig {
+    	height: 1690px;
+	}
+	
+	.scrimg {
+  		margin-top: -140px;
+	}
+	
+	.scrsht {
+  		height: 200px;
 	}
 }
 
@@ -1690,8 +1750,28 @@ ol {
 /*Laptop 1536*/
 @media only screen and (max-width: 1536px) {
 	.appbg {
-	width: 1400px;
-	height: 400px;
+		width: 1400px;
+		height: 1396px;
+	}
+	
+	.downbut2 {
+		width: auto;
+	}
+	
+	.aboutdown {
+		margin-top: -90px;
+	}
+	
+	.appbgbig {
+    	height: 1690px;
+	}
+	
+	.scrimg {
+  		margin-top: -140px;
+	}
+	
+	.scrsht {
+  		height: 200px;
 	}
 }
 
@@ -1700,8 +1780,28 @@ ol {
 /*Laptop L*/
 @media only screen and (max-width: 1440px) {
 	.appbg {
-	width: 1200px;
-	height: 1700px;
+		width: 1200px;
+		height: 1396px;
+	}
+	
+	.downbut2 {
+		width: auto;
+	}
+	
+	.aboutdown {
+		margin-top: -90px;
+	}
+	
+	.appbgbig {
+    	height: 1690px;
+	}
+	
+	.scrimg {
+  		margin-top: -140px;
+	}
+	
+	.scrsht {
+  		height: 200px;
 	}
 }
 
@@ -1709,8 +1809,28 @@ ol {
 /*Laptop 1280*/
 @media only screen and (max-width: 1280px) {
 	.appbg {
-	width: 1100px;
-	height: 400px;
+		width: 1100px;
+		height: 1428px;
+	}
+	
+	.downbut2 {
+		width: auto;
+	}
+	
+	.aboutdown {
+		margin-top: -90px;
+	}
+	
+	.appbgbig {
+    	height: 1720px;
+	}
+	
+	.scrimg {
+  		margin-top: -140px;
+	}
+	
+	.scrsht {
+  		height: 200px;
 	}
 }
 
@@ -1718,8 +1838,28 @@ ol {
 /*Laptop*/
 @media only screen and (max-width: 1024px) {
 	.appbg {
-	width: 800px;
-	height: 400px;
+		width: 800px;
+		height: 1303px;
+	}
+	
+	.downbut2 {
+		width: auto;
+	}
+	
+	.aboutdown {
+		margin-top: -90px;
+	}
+	
+	.appbgbig {
+    	height: 1593px;
+	}
+	
+	.scrimg {
+  		margin-top: -140px;
+	}
+	
+	.scrsht {
+  		height: 200px;
 	}
 }
 
@@ -1727,8 +1867,28 @@ ol {
 /*Tablet*/
 @media only screen and (max-width: 768px) {
 	.appbg {
-	width: 550px;
-	height: 400px;
+		width: 550px;
+		height: 1210px;
+	}
+	
+	.downbut2 {
+		width: auto;
+	}
+	
+	.aboutdown {
+		margin-top: -90px;
+	}
+	
+	.appbgbig {
+    	height: 1500px;
+	}
+	
+	.scrimg {
+  		margin-top: -140px;
+	}
+	
+	.scrsht {
+  		height: 200px;
 	}
 }
 
@@ -1737,7 +1897,31 @@ ol {
 @media only screen and (max-width: 426px) {
 	.appbg {
 		width: 300px;
-		height: 400px;
+		height: 1180px;
+	}
+	
+	.appvers {
+		margin-left: 140px;
+	}
+	
+	.downbut2 {
+		width: auto;
+	}
+	
+	.aboutdown {
+		margin-top: -90px;
+	}
+	
+	.appbgbig {
+    	height: 1523px;
+	}
+	
+	.scrimg {
+  		margin-top: -140px;
+	}
+	
+	.scrsht {
+  		height: 200px;
 	}
 }
 
@@ -1758,7 +1942,7 @@ ol {
 	}
 	
 	.aboutdown {
-		margin-top: -120px;
+		margin-top: -90px;
 	}
 	
 	.appbgbig {
@@ -1766,7 +1950,7 @@ ol {
 	}
 	
 	.scrimg {
-  		margin-top: -90px;
+  		margin-top: -140px;
 	}
 	
 	.scrsht {
