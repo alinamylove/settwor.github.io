@@ -1781,7 +1781,7 @@ ol {
 @media only screen and (max-width: 1440px) {
 	.appbg {
 		width: 1200px;
-		height: 1396px;
+		height: 1330px;
 	}
 	
 	.downbut2 {
@@ -1966,6 +1966,15 @@ ol {
 		height: 1300px;
 	}
 	
+	.scrimg {
+		height: auto;
+	}
+	
+	.appbg {
+		width: 200px;
+		height: 1300px;
+	}
+	
 	.appvers {
 		margin-left: 140px;
 	}
@@ -1979,11 +1988,12 @@ ol {
 	}
 	
 	.appbgbig {
-    height: 1800px;
+    	height: 1800px;
 	}
 	
 	.scrimg {
-    margin-top: -140px;
+   		margin-top: -140px;
+		height: 565px;
 	}
 	
 	.scrsht {
