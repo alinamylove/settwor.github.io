@@ -115,8 +115,6 @@ ol {
 .logo_name {
     margin: 0 auto;
     display: block;
-    top: 120px;
-    left: 660px;
 }
 
 .appdesc {
@@ -214,7 +212,7 @@ ol {
 }
 
 .appbgbig {
-	height: auto;
+	height: 1700px;
     background: linear-gradient(to left, DarkSlateGrey, SlateGray, DarkSlateGrey);
 }
 
@@ -1612,7 +1610,6 @@ ol {
 		display: none;
 	}
 	.footer-section {
-		padding: 30px 0 20px;
 		text-align: center;
 	}
 	.footer-menu li:first-child a {
@@ -1623,7 +1620,6 @@ ol {
 		float: none;
 	}
 	.copyright {
-		padding-top: 15px;
 	}
 	.community-post-list li {
 		padding: 30px 25px 30px;
@@ -1705,7 +1701,7 @@ ol {
 @media only screen and (max-width: 1440px) {
 	.appbg {
 	width: 1200px;
-	height: 400px;
+	height: 1700px;
 	}
 }
 
@@ -1740,8 +1736,8 @@ ol {
 /*Mobile L*/
 @media only screen and (max-width: 426px) {
 	.appbg {
-	width: 300px;
-	height: 400px;
+		width: 300px;
+		height: 400px;
 	}
 }
 
@@ -1749,8 +1745,32 @@ ol {
 /*Mobile M*/
 @media only screen and (max-width: 375px) {
 	.appbg {
-	width: 250px;
-	height: 400px;
+		width: 250px;
+		height: 1187px;
+	}
+	
+	.appvers {
+		margin-left: 140px;
+	}
+	
+	.downbut2 {
+		width: auto;
+	}
+	
+	.aboutdown {
+		margin-top: -120px;
+	}
+	
+	.appbgbig {
+    	height: 1474px;
+	}
+	
+	.scrimg {
+  		margin-top: -90px;
+	}
+	
+	.scrsht {
+  		height: 200px;
 	}
 }
 
@@ -1758,8 +1778,32 @@ ol {
 /*Mobile S*/
 @media only screen and (max-width: 320px) {
 	.appbg {
-	width: 200px;
-	height: 400px;
+		width: 200px;
+		height: 1300px;
+	}
+	
+	.appvers {
+		margin-left: 140px;
+	}
+	
+	.downbut2 {
+		width: auto;
+	}
+	
+	.aboutdown {
+		margin-top: -120px;
+	}
+	
+	.appbgbig {
+    height: 1636px;
+	}
+	
+	.scrimg {
+    margin-top: -140px;
+	}
+	
+	.scrsht {
+    height: 200px;
 	}
 }
 
@@ -1815,6 +1859,6 @@ ol {
 }
 @media only screen and (max-width: 411px) {
 	.footer-section {
-	padding: 80px 0 16px;
+		
 	}
 }
